@@ -99,12 +99,12 @@ The design focuses on:
 
 1. **Clone the repository:**
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/Amnakhan-gif/Responsive-Frontend-Interface.git
    ```
 
 2. **Open the project folder:**
    ```bash
-   cd learnspace
+   cd decode-labs-project-1
    ```
 
 3. **Open the project:**
